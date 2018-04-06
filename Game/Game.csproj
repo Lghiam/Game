@@ -98,6 +98,7 @@
     <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
+    <Compile Include="Assets\Scripts\ClampCam2D.cs" />
     <Compile Include="Assets\Scripts\FollowTarget.cs" />
     <Compile Include="Assets\Scripts\MainMenu.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
@@ -142,7 +143,6 @@
     <None Include="Assets\Great\Spritesheets\spritesheet_items.xml" />
     <None Include="Assets\Great\Spritesheets\spritesheet_players.xml" />
     <None Include="Assets\Great\Spritesheets\spritesheet_tiles.xml" />
-    <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
     <None Include="Assets\Standard Assets\Cameras\CameraGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />

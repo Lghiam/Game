@@ -148,7 +148,6 @@
     <None Include="Assets\Great\Spritesheets\spritesheet_items.xml" />
     <None Include="Assets\Great\Spritesheets\spritesheet_players.xml" />
     <None Include="Assets\Great\Spritesheets\spritesheet_tiles.xml" />
-    <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
     <None Include="Assets\Standard Assets\Cameras\CameraGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
