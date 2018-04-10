@@ -141,6 +141,14 @@
     <Compile Include="Assets\Standard Assets\Editor\Water\Water4\WaterEditorUtility.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Great\Spritesheet\blue_spritesheet.xml" />
+    <None Include="Assets\Great\Spritesheet\box_spritesheet.xml" />
+    <None Include="Assets\Great\Spritesheet\brown_spritesheet.xml" />
+    <None Include="Assets\Great\Spritesheet\marble_spritesheet.xml" />
+    <None Include="Assets\Great\Spritesheet\metal_spritesheet.xml" />
+    <None Include="Assets\Great\Spritesheet\solid_spritesheet.xml" />
+    <None Include="Assets\Great\Spritesheet\wood_spritesheet.xml" />
+    <None Include="Assets\Great\Spritesheet\yellow_spritesheet.xml" />
     <None Include="Assets\Great\Spritesheets\spritesheet_complete.xml" />
     <None Include="Assets\Great\Spritesheets\spritesheet_enemies.xml" />
     <None Include="Assets\Great\Spritesheets\spritesheet_ground.xml" />
