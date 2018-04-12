@@ -31,18 +31,6 @@ namespace UnityStandardAssets._2D
         }
 
 
-		void OnTriggerEnter2D(Collider2D other){
-			if (other.tag == "FallDetector") {
-				// what will happen when the player enters the fall detector code (this will be added later)
-			}
-			if (other.tag == "Checkpoint") {
-				respawnPoint = other.transform.position;
-			}
-		}
-
-
-
-
 
 
         private void FixedUpdate()
