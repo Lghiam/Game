@@ -19,8 +19,9 @@ namespace UnityStandardAssets._2D
         private Animator m_Anim;            // Reference to the player's animator component.
         private Rigidbody2D m_Rigidbody2D;
         private bool m_FacingRight = true;  // For determining which way the player is currently facing.
-
-        private void Awake()
+		private Vector3 respawnPoint;
+       
+		private void Awake()
         {
             // Setting up references.
             m_GroundCheck = transform.Find("GroundCheck");
@@ -28,6 +29,20 @@ namespace UnityStandardAssets._2D
             m_Anim = GetComponent<Animator>();
             m_Rigidbody2D = GetComponent<Rigidbody2D>();
         }
+
+
+		void OnTriggerEnter2D(Collider2D other){
+			if (other.tag == "FallDetector") {
+				// what will happen when the player enters the fall detector code (this will be added later)
+			}
+			if (other.tag == "Checkpoint") {
+				respawnPoint = other.transform.position;
+			}
+		}
+
+
+
+
 
 
         private void FixedUpdate()
@@ -110,5 +125,8 @@ namespace UnityStandardAssets._2D
             theScale.x *= -1;
             transform.localScale = theScale;
         }
-    }
+    
+
+	
+	}
 }
