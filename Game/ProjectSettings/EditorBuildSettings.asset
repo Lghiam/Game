@@ -23,3 +23,30 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Game2.unity
     guid: 055c25705019e5a46aed5e8993bf075f
+  - enabled: 1
+    path: Assets/Game4.unity
+    guid: 884ffb983dbe1e745af28e7510620d06
+  - enabled: 1
+    path: Assets/Game4a.unity
+    guid: 687d824b0a4cfd44785ad13dc2bf5ebf
+  - enabled: 1
+    path: Assets/Game4b.unity
+    guid: 99cd9807294a9d7418089e7a3de87350
+  - enabled: 1
+    path: Assets/Game4c.unity
+    guid: 460c5b39714041b46aca05f9cd466fee
+  - enabled: 1
+    path: Assets/Game4d.unity
+    guid: 4060b3155f01b7b4cb2afad1a13af6ff
+  - enabled: 1
+    path: Assets/Game4e.unity
+    guid: 11f467c0a51f05d4e9c90a9e46dbc82f
+  - enabled: 1
+    path: Assets/Game4f.unity
+    guid: ef26e55c94c74d642befe0e4fdf41436
+  - enabled: 1
+    path: Assets/Game4g.unity
+    guid: f590426b25ba30e4fb5c8a2489c69c3d
+  - enabled: 1
+    path: Assets/GameVictory.unity
+    guid: 71ef7bb3d335ef04b93109244bc83466
