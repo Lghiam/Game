@@ -5,12 +5,6 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Menu.unity
     guid: 17f9dcf0cd769fc418471d36c7b347ce
@@ -28,7 +22,34 @@ EditorBuildSettings:
     guid: 877be2a3c1471da45a9bc41a37d62cef
   - enabled: 1
     path: Assets/Game3a.unity
-    guid: f4f564aab0383fa44bbce7755ef1274c
+    guid: 6267d56743eb8d84da8f0c2196979a1b
+  - enabled: 1
+    path: Assets/Game3b.unity
+    guid: 48045116536e9854cbce3aefaaa873d7
+  - enabled: 1
+    path: Assets/Game3c.unity
+    guid: 032631ef7b3146b4c809baeff6be289e
+  - enabled: 1
+    path: Assets/Game3d.unity
+    guid: 1ada8496092da544e9414d9600f244fc
+  - enabled: 1
+    path: Assets/Game3e.unity
+    guid: d8b13021b389d2a4f95bacb12ea57a9c
+  - enabled: 1
+    path: Assets/Game3f.unity
+    guid: 608e98be132ea834b99aac3e20216265
+  - enabled: 1
+    path: Assets/Game3g.unity
+    guid: f26075ac8e7e1484a9ff51d2205c92b6
+  - enabled: 1
+    path: Assets/Game3End.unity
+    guid: 928916a80bbff7b48a95758bee8c3ef2
+  - enabled: 0
+    path: 
+    guid: 15e8b47fe5b186c47b859a4cf91d3674
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Game4.unity
     guid: 884ffb983dbe1e745af28e7510620d06
