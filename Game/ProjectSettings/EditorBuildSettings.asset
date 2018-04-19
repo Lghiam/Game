@@ -20,30 +20,30 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Game3.unity
     guid: 877be2a3c1471da45a9bc41a37d62cef
-  - enabled: 1
-    path: Assets/Game3a.unity
-    guid: 6267d56743eb8d84da8f0c2196979a1b
-  - enabled: 1
-    path: Assets/Game3b.unity
-    guid: 48045116536e9854cbce3aefaaa873d7
-  - enabled: 1
-    path: Assets/Game3c.unity
-    guid: 032631ef7b3146b4c809baeff6be289e
-  - enabled: 1
-    path: Assets/Game3d.unity
-    guid: 1ada8496092da544e9414d9600f244fc
-  - enabled: 1
-    path: Assets/Game3e.unity
-    guid: d8b13021b389d2a4f95bacb12ea57a9c
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Game3f.unity
     guid: 608e98be132ea834b99aac3e20216265
-  - enabled: 1
-    path: Assets/Game3g.unity
-    guid: f26075ac8e7e1484a9ff51d2205c92b6
-  - enabled: 1
-    path: Assets/Game3End.unity
-    guid: 928916a80bbff7b48a95758bee8c3ef2
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
@@ -75,8 +75,11 @@ EditorBuildSettings:
     path: Assets/Game4g.unity
     guid: f590426b25ba30e4fb5c8a2489c69c3d
   - enabled: 1
-    path: Assets/GameVictory.unity
-    guid: 71ef7bb3d335ef04b93109244bc83466
+    path: Assets/Game4victory.unity
+    guid: b25c76ed30bac174086d9912d29f5471
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Game5.unity
     guid: 129570e886b3b174d86322423ba6f0d3
@@ -104,3 +107,30 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Game5End.unity
     guid: efea6f0b4c4b88a45b2627d4467f772f
+  - enabled: 1
+    path: Assets/Game6.unity
+    guid: 497d01e0744c2dc42a231daf569272a8
+  - enabled: 1
+    path: Assets/Game6a.unity
+    guid: 5a6d2689c99482d41b98d40b2c4fead2
+  - enabled: 1
+    path: Assets/Game6b.unity
+    guid: 436c3596b187c184aa11ea499bfbc478
+  - enabled: 1
+    path: Assets/Game6c.unity
+    guid: 3d0c965ba9111544fa9c59a1ed1b6ca8
+  - enabled: 1
+    path: Assets/Game6d.unity
+    guid: 48891d68fd5f0774c98eb1a64b5e00d9
+  - enabled: 1
+    path: Assets/Game6e.unity
+    guid: 182e41b6d4bac074cb76f3784349dd7b
+  - enabled: 1
+    path: Assets/Game6f.unity
+    guid: b711462b965e8194bbd555077a364318
+  - enabled: 1
+    path: Assets/Game6g.unity
+    guid: 8c34dc1ed4b10094692579e9807cadc9
+  - enabled: 1
+    path: Assets/Game6victory.unity
+    guid: 9c09738491b662d4490c4ffda38ce760
