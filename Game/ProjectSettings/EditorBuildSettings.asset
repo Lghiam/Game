@@ -46,7 +46,7 @@ EditorBuildSettings:
     guid: 928916a80bbff7b48a95758bee8c3ef2
   - enabled: 0
     path: 
-    guid: 15e8b47fe5b186c47b859a4cf91d3674
+    guid: 00000000000000000000000000000000
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
@@ -77,3 +77,30 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/GameVictory.unity
     guid: 71ef7bb3d335ef04b93109244bc83466
+  - enabled: 1
+    path: Assets/Game5.unity
+    guid: 129570e886b3b174d86322423ba6f0d3
+  - enabled: 1
+    path: Assets/Game5a.unity
+    guid: 597fad15f3873db4fbb31d3e905a8469
+  - enabled: 1
+    path: Assets/Game5b.unity
+    guid: 0cbf99688745cbd4da81ab07fa1b01a1
+  - enabled: 1
+    path: Assets/Game5c.unity
+    guid: 4ffdc523bebf8cd4eadff0e554fe0283
+  - enabled: 1
+    path: Assets/Game5d.unity
+    guid: 0706f11e15e13fa49babcd964cf82ca4
+  - enabled: 1
+    path: Assets/Game5e.unity
+    guid: 205318b99bac3854490efa6e1db21cdd
+  - enabled: 1
+    path: Assets/Game5f.unity
+    guid: 069a74b589d5eef45843e6e7d8be10ef
+  - enabled: 1
+    path: Assets/Game5g.unity
+    guid: f5ab75fd095ac9f46be57fc48e08c902
+  - enabled: 1
+    path: Assets/Game5End.unity
+    guid: efea6f0b4c4b88a45b2627d4467f772f
