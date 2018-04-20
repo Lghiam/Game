@@ -43,6 +43,7 @@ public class Pause : MonoBehaviour {
 	public void LevelSelect(){
 		Debug.Log ("Returning to level select...");
 		SceneManager.LoadScene ("Level Select");
+		Time.timeScale = 1f;
 	}
 
 

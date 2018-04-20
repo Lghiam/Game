@@ -47,17 +47,17 @@ public class PauseMenu : MonoBehaviour
             MenuOff();
         }
     }
-
+	/*
 
 #if !MOBILE_INPUT
 	void Update()
 	{
-		if(Input.GetKeyUp(KeyCode.Escape))
+		if(Input.GetKeyUp(KeyCode.Tab))
 		{
 		    m_MenuToggle.isOn = !m_MenuToggle.isOn;
             Cursor.visible = m_MenuToggle.isOn;//force the cursor visible if anythign had hidden it
 		}
 	}
 #endif
-
+*/
 }

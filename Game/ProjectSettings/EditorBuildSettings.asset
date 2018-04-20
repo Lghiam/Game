@@ -26,18 +26,39 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Game3a.unity
+    guid: f64c6ee1fcdb28f46a418012ddadb34a
+  - enabled: 1
+    path: Assets/Game3b.unity
+    guid: fcb2b461772635b4e9589d93a5743f91
+  - enabled: 1
+    path: Assets/Game3c.unity
+    guid: beb03a8f303a629408d39859d1495e05
+  - enabled: 1
+    path: Assets/Game3d.unity
+    guid: 50af4b84a8bc1a9489645b4911c46aec
+  - enabled: 1
+    path: Assets/Game3e.unity
+    guid: a7a6dbe5edae2c742a1ed113b0c7b178
   - enabled: 1
     path: Assets/Game3f.unity
     guid: 608e98be132ea834b99aac3e20216265
+  - enabled: 1
+    path: Assets/Game3g.unity
+    guid: e9449ed73de5701499dea05d0b4c8cde
+  - enabled: 1
+    path: Assets/Game3End.unity
+    guid: 7bc69a848b9eebb4a852afe4f7aa7309
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
