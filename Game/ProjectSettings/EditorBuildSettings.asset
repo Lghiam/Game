@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Menu.unity
     guid: dc9810603c1e7ab428864efa6ebd2c5a
   - enabled: 0
-    path: Assets/__DELETED_GUID_Trash/17f9dcf0cd769fc418471d36c7b347ce
+    path: 
     guid: 17f9dcf0cd769fc418471d36c7b347ce
   - enabled: 1
     path: Assets/Level Select.unity

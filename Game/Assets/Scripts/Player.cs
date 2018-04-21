@@ -3,16 +3,16 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Player : MonoBehaviour {
-
+    //https://www.youtube.com/watch?v=WFO1GUKYARQ&t=333s this code was taken to create a respawn function in the game 
     [System.Serializable]
 	public class PlayerStats
     {
-        public int Health = 100;
+        public int Life = 100;
     }
 
     public PlayerStats playerStats = new PlayerStats();
 
-    public int fallBoundary = -20;
+    public int fBoundary = -20;
 
     void Update()
     {
@@ -24,10 +24,10 @@ public class Player : MonoBehaviour {
 
     public void DamagePlayer (int damage)
     {
-        playerStats.Health -= damage;
-        if(playerStats.Health <= 0)
+        playerStats.Life -= damage;
+        if(playerStats.Life <= 0)
         {
-            GameMaster.KillPlayer(this);
+            GameMaster.Kill(this);
         }
     }
 }

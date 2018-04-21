@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class LevelLoader : MonoBehaviour {
-
-	private bool playerInField;
+    //https://www.youtube.com/watch?v=CdkJoJd4SYg&t=428s This code was used to create a level select system
+    private bool playerInField;
 
 	public string levelLoad;
 

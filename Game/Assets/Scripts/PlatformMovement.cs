@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class PlatformMovement : MonoBehaviour {
-
-	private Vector3 posA;
+    //https://www.youtube.com/watch?v=4R_AdDK25kQ&t=0s&list=PLc7tnylBiuaRYIrc7uNprgDjhopB0RxOe&index=3 This was used to create an elevator
+    private Vector3 posA;
 
 	private Vector3 posB;
 
