@@ -40,6 +40,7 @@ public class Pause : MonoBehaviour {
 	public void Loading(){
 		Debug.Log ("Loading, please wait");
 		SceneManager.LoadScene ("Menu");
+		Time.timeScale = 1f;
 	}
 
 	public void LevelSelect(){
